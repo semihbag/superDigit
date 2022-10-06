@@ -1,6 +1,5 @@
-// ID = 150120070
 // Name = Semih
-// Surname = Bað
+// Surname = BaÄŸ
 // Purpose = Find the super digit
 
 #include<stdio.h>
